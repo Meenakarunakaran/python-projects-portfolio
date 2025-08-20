@@ -12,8 +12,8 @@ def divide(a, b):
         return a / b
 print("Select operation/n 1. Add\n 2. Subtract\n 3. Multiply\n 4. Divide")
 ch = input("Enter choice (1/2/3/4): ")
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
 if ch == '1':
     print("Result:", add(a, b))
 elif ch == '2':
