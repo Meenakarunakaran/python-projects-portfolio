@@ -1,0 +1,2 @@
+Today's task: Complete Python exercises.
+Review data structures and OOP concepts.
