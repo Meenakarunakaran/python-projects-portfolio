@@ -27,7 +27,7 @@ class BankAccount:
         print(f"Current Balance = {self.balance}")
 print(" Welcome to Bank System ")
 name = input("Enter your name: ")
-account = BankAccount(name, 1000)   # Starting with 1000 balance
+account = BankAccount(name, 10000)   # Starting with 1000 balance
 while True:
     print("\nChoose an option:")
     print("1. Deposit")
